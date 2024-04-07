@@ -1,0 +1,7 @@
+scikit-learn
+ucimlrepo
+numpy
+pandas
+matplotlib
+certifi
+seaborn
